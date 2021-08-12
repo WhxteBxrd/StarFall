@@ -1,0 +1,11 @@
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\bin\Debug\Starfall(Screensaver_Win98).exe.config
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\bin\Debug\Starfall(Screensaver_Win98).exe
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\bin\Debug\Starfall(Screensaver_Win98).pdb
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\obj\Debug\Starfall(Screensaver_Win98).csprojAssemblyReference.cache
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\obj\Debug\Starfall_Screensaver_Win98_.Form1.resources
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\obj\Debug\Starfall_Screensaver_Win98_.Properties.Resources.resources
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\obj\Debug\Starfall(Screensaver_Win98).csproj.GenerateResource.cache
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\obj\Debug\Starfall(Screensaver_Win98).csproj.CoreCompileInputs.cache
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\obj\Debug\Starfall(Screensaver_Win98).exe
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\obj\Debug\Starfall(Screensaver_Win98).pdb
+D:\Isx@dn1k1\C#\exemple\Basic Project\Starfall(Screensaver_Win98)\obj\Debug\Starfall_Screensaver_Win98_.Start_Form.resources
